@@ -1,1 +1,1 @@
-# fiap_vetores_e_estados_qubit.py
+# VETORES E ESTADOS DE UM QUBIT 
